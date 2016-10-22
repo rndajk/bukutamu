@@ -1,0 +1,14 @@
+CREATE : 
+  1. Insert pengunjung terdaftar
+  2. Insert pengunjung aktif
+  3. Insert instansi
+
+READ : 
+  1. Select Pengunjung terdaftar
+ 
+UPDATE :
+  1. Update Pengunjung terdaftar
+
+Delete : 
+  1. Pengunjung terdaftar
+  2.

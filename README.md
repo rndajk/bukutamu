@@ -1,2 +1,1 @@
-# bukutamu
-Buku tamu AJK
+# buku_tamu

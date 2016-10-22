@@ -1,0 +1,71 @@
+body
+{
+    background-color: dodgerblue; 
+}
+
+canvas 
+{
+  display: block;
+  vertical-align: bottom;
+}
+
+#sidebar-btn:hover
+{
+    opacity: 0.5;
+}
+
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+#bg 
+{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+body > .grid
+{
+    height: 100%;
+}
+
+body.pushable>.pusher 
+{
+    background: dodgerblue !important;
+}
+
+.image
+{
+    margin-top: -100px;
+}
+
+.column-login
+{
+    margin-top: 25vh;
+    max-width: 450px;
+}
+
+.column-home
+{
+    margin-top: 40px;
+    max-width: 600px;
+    width: 450px;
+    z-index: 1;
+}
+
+.column-history
+{
+    margin-top: 40px;
+    max-width: 900px;
+    width: 900px;
+    z-index: 1;
+}
